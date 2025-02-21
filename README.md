@@ -37,7 +37,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 The overall sales trend seems to be steadily increasing every month with an exception of slight dip in February. This same trend can be seen in terms of Order Volume as well with a  sharp rise in order volume from  April to May. While this sharp rise could be attributed to social media promotions and campaigns run by the coffee shop, the following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
 
-Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://github.com/Curious-Creative-Mind/Coffee-Sales-Analysis/blob/ecdddba86d5d483bad1c3737b12c696ee358a11f/Project%205-%20Coffee%20sales.pbix).
+Below is the overview of KPIs from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://github.com/Curious-Creative-Mind/Coffee-Sales-Analysis/blob/ecdddba86d5d483bad1c3737b12c696ee358a11f/Project%205-%20Coffee%20sales.pbix).
 
   ![KPIs](https://github.com/Curious-Creative-Mind/Coffee-Sales-Analysis/blob/main/KPIs.PNG?raw=true)
 
@@ -45,7 +45,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 -	The coffee chain saw a **steady rise in sales and order volume monthwise** from January to June except a **slight dip in February**.
 -	There was also a **sharp rise in the order volume in the month of May by 11,764** quantities sold as compared to **average rise in the order volume of 3,577 per month** which can be attributed to successful social media campaign.
--	The coffee chain sees **maximum rush during the morning hours*** followed by afternoon and thus the **maximum revenue** is generated **during the first half of the day** comprising almost **55.5%** of the total revenue generated during the entire day. This can be due to the habit of starting the day with morning refreshment by the office going and college going crowd.
+-	The coffee chain sees **maximum rush during the morning hours** followed by afternoon and thus the **maximum revenue** is generated **during the first half of the day** comprising almost **55.5%** of the total revenue generated during the entire day. This can be due to the habit of starting the day with morning refreshment by the office going and college going crowd.
 -	**Sales metrics during the weekdays (Monday-Friday) is slightly higher** than during the  weekends. This could be possibly due to the office going and college going customers.
 
 ![sales monthwise](https://github.com/Curious-Creative-Mind/Coffee-Sales-Analysis/blob/main/sales%20monthwise.PNG?raw=true)              ![monthly order volume](https://github.com/Curious-Creative-Mind/Coffee-Sales-Analysis/blob/main/monthly%20Order%20volume.PNG?raw=true)

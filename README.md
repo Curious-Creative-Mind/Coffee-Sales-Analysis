@@ -14,7 +14,7 @@ Insights and recommendations are provided on the following key areas:
   
 An interactive PowerBI dashboard can be downloaded here.
 
-![PowerBI Dashboard](dashboard.png)
+![PowerBI Dashboard](https://github.com/Curious-Creative-Mind/Coffee-Sales-Analysis/blob/main/dashboard.PNG?raw=true)
 
 ## Data Structure and Initial Checks:
 

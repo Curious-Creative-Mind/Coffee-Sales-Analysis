@@ -12,7 +12,7 @@ Insights and recommendations are provided on the following key areas:
 -	**Product Level Performance** - An analysis of Maven Roasters’ various product types and category, understanding their impact on sales.
 -	**Regional Comparisons** - An evaluation of sales and orders by store location.
   
-An interactive PowerBI dashboard can be downloaded here.
+An interactive PowerBI dashboard can be downloaded [here](https://github.com/Curious-Creative-Mind/Coffee-Sales-Analysis/blob/ecdddba86d5d483bad1c3737b12c696ee358a11f/Project%205-%20Coffee%20sales.pbix).
 
 ![PowerBI Dashboard](https://github.com/Curious-Creative-Mind/Coffee-Sales-Analysis/blob/main/dashboard.PNG?raw=true)
 
@@ -37,7 +37,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 The overall sales trend seems to be steadily increasing every month with an exception of slight dip in February. This same trend can be seen in terms of Order Volume as well with a  sharp rise in order volume from  April to May. While this sharp rise could be attributed to social media promotions and campaigns run by the coffee shop, the following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
 
-Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded here.
+Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://github.com/Curious-Creative-Mind/Coffee-Sales-Analysis/blob/ecdddba86d5d483bad1c3737b12c696ee358a11f/Project%205-%20Coffee%20sales.pbix).
 
   ![KPIs](https://github.com/Curious-Creative-Mind/Coffee-Sales-Analysis/blob/main/KPIs.PNG?raw=true)
 

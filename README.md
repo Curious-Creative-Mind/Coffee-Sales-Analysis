@@ -20,7 +20,7 @@ An interactive PowerBI dashboard can be downloaded here.
 
 The shops’ database structure as seen below consists of a table sales_revenue with a total row count of 1,49,116 records and a custom created table calendar with 181 rows.
 
-
+![Data model](https://github.com/Curious-Creative-Mind/Coffee-Sales-Analysis/blob/main/data%20model.PNG?raw=true)
 
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets using Power Query.
 
@@ -39,6 +39,8 @@ The overall sales trend seems to be steadily increasing every month with an exce
 
 Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded here.
 
+  ![KPIs](https://github.com/Curious-Creative-Mind/Coffee-Sales-Analysis/blob/main/KPIs.PNG?raw=true)
+
 ### Sales Trends:
 
 -	The coffee chain saw a **steady rise in sales and order volume monthwise** from January to June except a **slight dip in February**.
@@ -46,17 +48,25 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 -	The coffee chain sees **maximum rush during the morning hours*** followed by afternoon and thus the **maximum revenue** is generated **during the first half of the day** comprising almost **55.5%** of the total revenue generated during the entire day. This can be due to the habit of starting the day with morning refreshment by the office going and college going crowd.
 -	**Sales metrics during the weekdays (Monday-Friday) is slightly higher** than during the  weekends. This could be possibly due to the office going and college going customers.
 
+![sales monthwise](https://github.com/Curious-Creative-Mind/Coffee-Sales-Analysis/blob/main/sales%20monthwise.PNG?raw=true)              ![monthly order volume](https://github.com/Curious-Creative-Mind/Coffee-Sales-Analysis/blob/main/monthly%20Order%20volume.PNG?raw=true)
+
 ### Product Performance:
 
 -	**66% of the coffee chain’s orders are just from 2 product categories Coffee and Tea** accounting for $466K revenue.
 -	**In terms of Order Volume, 3 product types have consistently occupied  all time top 3 positions** comprising Brewed Chai Tea, Gourmet Brewed Coffee and Barista Espresso. These account for **34% of total revenue.**
 -	Product categorywise, Coffee remains the all time maximum contributor in the share of sales pie followed by Tea but **Bakery** seems to occupy the **3rd position during the morning and afternoon hours** only, as **Drinking Chocolate** surpasses it **during the evening and night hours.**
 
+![product categorywise sales](https://github.com/Curious-Creative-Mind/Coffee-Sales-Analysis/blob/main/Product%20categorywise%20sales.PNG?raw=true)   
+
+![product type order volume](https://github.com/Curious-Creative-Mind/Coffee-Sales-Analysis/blob/main/product%20type%20order%20volume.PNG?raw=true)
+
 ### Regional Comparisons:
 
 -	Coffee shops in **all 3 locations** seems to perform almost at **similar level in terms of sales** however **Hell’s Kitchen** remained the **best performer** throughout the 6 months. 
 -	**Lower Manhattan** has **significantly lower sales during the night time** (comprising only **12%** of the total night sales ) as compared to other 2 locations.
 -	Lower Manhattan does most of its sales during the first half of the day while Astoria picks up after the morning hours as compared to other 2 locations.
+
+       ![locational sales](https://github.com/Curious-Creative-Mind/Coffee-Sales-Analysis/blob/main/locational%20sales.PNG?raw=true)
 
 ## Recommendations:
 
@@ -70,7 +80,7 @@ Based on the uncovered insights, the following recommendations have been provide
 
 ### Data Source:
 
--Kaggle 
+- Kaggle 
 
 ### Tools used:
 
